@@ -1,0 +1,6 @@
+{
+  "name": "DocPulse Doctor Appointment & Clinic Management",
+  "description": "A comprehensive MERN online doctor appointment and clinic management system featuring doctor verification, multi-clinic management, smart slot booking, patient records, and admin control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
